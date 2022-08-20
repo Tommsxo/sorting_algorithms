@@ -1,2 +1,1 @@
-# sorting_algorithms
-ALX sorting_algorithms project
+My first readme
